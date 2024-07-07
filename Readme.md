@@ -14,6 +14,7 @@ Basic concepts of digital images: image formation, camera models, projective geo
 2. [Image Processing](image_processing.ipynb)
 3. [Harris Detector and RANSAC](harris_and_ransac.ipynb)
 4. [SIFT](sift_method.ipynb)
-5. [Convolutional Neural Networks](convolutional_neural_network.ipynb)
-6. [Hough Transformation](hough_transform.ipynb)
+5. [Fourier Compression](fourier_compression.ipynb)
+6. [Convolutional Neural Networks](convolutional_neural_network.ipynb)
+7. [Hough Transformation](hough_transform.ipynb)
 
