@@ -17,4 +17,4 @@ Basic concepts of digital images: image formation, camera models, projective geo
 5. [Fourier Compression](fourier_compression.ipynb)
 6. [Convolutional Neural Networks](convolutional_neural_network.ipynb)
 7. [Hough Transformation](hough_transform.ipynb)
-
+8. [Frames Interpolation](frames_interpolation.ipynb)
